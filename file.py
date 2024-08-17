@@ -1,2 +1,2 @@
-print("keep playing")
+print("keep playing"):
 
